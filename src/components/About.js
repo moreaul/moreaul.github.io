@@ -83,7 +83,7 @@ class About extends Component {
                     {about}
                   </div>
                 </div>
-                <a class="button" href="C:\Users\linom\OneDrive\Documents\GitHub\moreaul.github.io\public\images\coffee-apple.jpg" target="_blank">CV</a>
+                <a class="button" href="public/images/coffee-apple.jpg" target="_blank">CV</a>
               </div>
             </div>
           </div>
