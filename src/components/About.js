@@ -83,6 +83,7 @@ class About extends Component {
                     {about}
                   </div>
                 </div>
+                <a class="button" href="public/images/coffee-apple.jpg" target="_blank">CV</a>
               </div>
             </div>
           </div>
