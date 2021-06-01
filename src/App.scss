@@ -429,7 +429,7 @@ footer a:focus {
 
 * {
     --primary-color-dark: #59689C;
-    --primary-color-light: #8AAEE5;
+    --primary-color-light: #6d6d6d;
 	overflow: auto;
 }
 
@@ -443,6 +443,6 @@ button, .button{
     border-radius: 7px;
     min-width: 60px;
     cursor: pointer;
-	box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 6px 0 rgb(0 0 0 / 20%);
+	box-shadow: 0 4px 8px 0 rgb(0, 0, 0 / 20%), 0 6px 6px 0 rgb(0, 0, 0 / 20%);
     text-decoration: none;
 }
