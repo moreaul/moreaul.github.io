@@ -81,37 +81,46 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Saint Gabriel",
+        "title": "BAC STI2D",
+        "years": "2019",
         "mainTech": [
-          "Angular 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Esupec",
+        "title": "BTS SIO",
+        "years": "2019-2021",
         "mainTech": [
-          "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "HTML",
+          "CSS",
+          "Symfony",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Java",
+          "Android",
+          "Python",
+          "MySql"
+        ]
+      },
+      {
+        "company": "Uni-Vision",
+        "title": "Stage développeur informatique",
+        "years": "01/2021 - 02/2021",
+        "mainTech": [
+        ],
+        "technologies": [
+          "Symfony",
+          "PHP",
+          "HTML",
+          "CSS",
+          "Javascript",
+          "MySql",
+          "Ajax"
         ]
       }
     ]
