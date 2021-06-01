@@ -39,6 +39,10 @@ body[data-theme="dark"] {
          color: white;
       }
    }
+   .col-md-12{
+      position: static;
+      //z-index: -1;
+   }
 
    .makeStyles-particlesCanvas-1 {
       opacity: 0.3;
