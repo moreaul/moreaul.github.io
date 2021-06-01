@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/moreaul",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/lino-moreau-9a4840201/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "avatar.png"
