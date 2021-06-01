@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.77708a0d.chunk.css",
+    "main.css": "/static/css/main.8c3ed671.chunk.css",
     "main.js": "/static/js/main.6150d0be.chunk.js",
     "main.js.map": "/static/js/main.6150d0be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
@@ -9,10 +9,10 @@
     "static/js/2.4094d62f.chunk.js": "/static/js/2.4094d62f.chunk.js",
     "static/js/2.4094d62f.chunk.js.map": "/static/js/2.4094d62f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1870566e7e40a37039582735d68df118.js": "/precache-manifest.1870566e7e40a37039582735d68df118.js",
+    "precache-manifest.bd13514a017512c0a15c70fc57789a69.js": "/precache-manifest.bd13514a017512c0a15c70fc57789a69.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.77708a0d.chunk.css.map": "/static/css/main.77708a0d.chunk.css.map",
+    "static/css/main.8c3ed671.chunk.css.map": "/static/css/main.8c3ed671.chunk.css.map",
     "static/js/2.4094d62f.chunk.js.LICENSE.txt": "/static/js/2.4094d62f.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/coffee-apple.2dd213aa.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.a5042f6b.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.4094d62f.chunk.js",
-    "static/css/main.77708a0d.chunk.css",
+    "static/css/main.8c3ed671.chunk.css",
     "static/js/main.6150d0be.chunk.js"
   ]
 }
