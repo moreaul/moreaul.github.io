@@ -7,6 +7,8 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Particles from "./components/Particles";
+//import Particles from 'react-particles-js';
 
 class App extends Component {
 
@@ -82,8 +84,11 @@ class App extends Component {
   render() {
     return (
       <div>
+        <React.Fragment>
+          <Particles />
+        </React.Fragment>
         <Header sharedData={this.state.sharedData.basic_info} />
-        <div className="col-md-12 mx-auto text-center language">
+        <div className="header col-md-12 mx-auto text-center language">
           <div
             onClick={() =>
               this.applyPickedLanguage(
@@ -93,9 +98,9 @@ class App extends Component {
             }
             style={{ display: "inline" }}
           >
+            <a class="iconify language-icon" href="images/CV.pdf" target="_blank">CV</a>
             <span
               className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
@@ -109,14 +114,15 @@ class App extends Component {
             }
             style={{ display: "inline" }}
           >
+            <a class="iconify language-icon" href="images/BTS_SIO_E6_tableau_synthèseSLAM.pdf" target="_blank">Compétences BTS</a>
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
           </div>
         </div>
+        
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}

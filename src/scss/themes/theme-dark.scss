@@ -11,7 +11,7 @@ body[data-theme="dark"] {
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #ffffff;
       opacity: 0.8;
    }
 
@@ -32,12 +32,20 @@ body[data-theme="dark"] {
       color: white;
    }
 
-   header {
-      background-color: #494949;
+   header, .header {
+      /*background-color: #494949;*/
+      background: url("coffee-apple.jpg") no-repeat center center fixed;
       h1 {
          color: white;
       }
    }
+
+   .makeStyles-particlesCanvas-1 {
+      opacity: 0.3;
+      position: fixed;
+      width: 100%; 
+      height: 100%;
+  }
 
    #about {
       background-color: #7f7f7f;
