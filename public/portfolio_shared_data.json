@@ -19,12 +19,12 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS",
           "class": "devicon-css3-plain",
           "level": "95"
         },

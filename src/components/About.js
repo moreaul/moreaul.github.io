@@ -83,8 +83,8 @@ class About extends Component {
                     {about}
                   </div>
                 </div>
-                <a class="button" href="images/coffee-apple.jpg" target="_blank">CV</a>
-                <a class="button" href="images/avatar.png" target="_blank">Compétences BTS</a>
+                <a class="button" href="images/CV.pdf" target="_blank">CV</a>
+                <a class="button" href="images/BTS_SIO_E6_tableau_synthèseSLAM.pdf" target="_blank">Compétences BTS</a>
               </div>
             </div>
           </div>
