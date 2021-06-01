@@ -427,6 +427,11 @@ footer a:focus {
 	font-size: 22px;
 }
 
+* {
+    --primary-color-dark: #59689C;
+    --primary-color-light: #8AAEE5;
+}
+
 button .button{
 	background-color: var(--primary-color-light);
     color: white;
