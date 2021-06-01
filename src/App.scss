@@ -31,6 +31,7 @@ html {
 
 header {
 	/*position: relative;*/
+	//z-index: -1;
 	height: 520px;
 	min-height: 450px;
 	width: 100%;
@@ -51,6 +52,7 @@ header {
 	font-size: 33px;
 	cursor: pointer;
 	color: white;
+	position: relative;
 }
 
 .project-date {
