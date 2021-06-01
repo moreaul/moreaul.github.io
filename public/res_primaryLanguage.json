@@ -11,11 +11,35 @@
     },
     "projects": [
       {
+        "title": "MAISON DES LIGUES",
+        "startDate": "PPE1",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/PPE/PPE1/ppe1.png",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
         "title": "TOYSHOPPERS",
         "startDate": "PPE2",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/PPE/toyshopppers.PNG",
+          "images/portfolio/PPE/PPE2/toyshopppers.PNG",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "",
@@ -39,7 +63,7 @@
         "startDate": "PPE3",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/PPE/LBC.png",
+          "images/portfolio/PPE/PPE3/LBC.png",
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
@@ -59,10 +83,58 @@
         "startDate": "PPE4",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/PPE/tobat.png",
+          "images/portfolio/PPE/PPE4/tobat.png",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "PLAYERS MANAGER",
+        "startDate": "Stage",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/stage/playersmanager.png",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "SÉCURITE INFORMATIQUE",
+        "startDate": "Veille technologique",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/veille/Sécurité-informatique.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
