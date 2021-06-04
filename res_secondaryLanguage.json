@@ -59,7 +59,7 @@
     {
       "title": "LBC",
       "startDate": "PPE3",
-      "description": "Réalisation d'un site web pour une entreprise pharmaceutique fictive. Il lui permet de gérer ses visiteurs ainsi que les praticiens qu'ils visitent. Le site est développé en PHP avec une architecture MVC, il est connecté à une base de données SQL.",
+      "description": "Réalisation d'un site web pour une entreprise pharmaceutique fictive. Il lui permet de gérer ses visiteurs ainsi que leurs activités complémentaires. Le site est développé en PHP avec une architecture MVC, il est connecté à une base de données SQL.",
       "images": [
         "images/portfolio/PPE/PPE3/LBC.png",
         "images/portfolio/PPE/PPE3/AC.JPG"
