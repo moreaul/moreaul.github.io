@@ -13,7 +13,7 @@
       {
         "title": "MAISON DES LIGUES",
         "startDate": "PPE1",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Réalisation d'un site web responsive pour une association fictive qui propose des activités sportives ainsi que des locations de salles de sport. Le site permet de présenter l'association et ses activités, réserver des salles et prendre contact.",
         "images": [
           "images/portfolio/PPE/PPE1/ppe1.JPG",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -21,23 +21,19 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
         "title": "TOYSHOPPERS",
         "startDate": "PPE2",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Réalisation d'un site marchand fictif gérant un catalogue de produits, les comptes des clients, le panier. Non abouti à cause du covid.",
         "images": [
           "images/portfolio/PPE/PPE2/toyshopppers.PNG",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -45,109 +41,134 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
           }
         ]
       },
       {
         "title": "LBC",
         "startDate": "PPE3",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Réalisation d'un site web pour une entreprise pharmaceutique fictive. Il lui permet de gérer ses visiteurs ainsi que les praticiens qu'ils visitent. Le site est développé en PHP avec une architecture MVC, il est connecté à une base de données SQL.",
         "images": [
           "images/portfolio/PPE/PPE3/LBC.png",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/PPE/PPE3/AC.JPG"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
           }
         ]
       },
       {
         "title": "TOBAT",
         "startDate": "PPE4",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Développement d'un site web pour un salon nautique fictif permettant de gérer les stands de l'exposition. Réalisation d'une API REST avec le framework symfony. Le site web en symfony interagit avec l'API REST. Une application android était prévue mais a été annulée à cause du covid.",
         "images": [
           "images/portfolio/PPE/PPE4/tobat.png",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/PPE/PPE4/ajout.png",
+          "images/portfolio/PPE/PPE4/authentification.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          },
+          {
+            "class": "devicon-symfony-original",
+            "name": "Symfony"
           }
         ]
       },
       {
         "title": "PLAYERS MANAGER",
         "startDate": "Stage",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "Mise en place d’une plateforme web symfony de gestion des différents types de players d’uni vision. Accès à la plateforme par authentification. La page principale liste tous les players en service d'uni-vision, et leurs caractéristiques. Possibilité d'ajouter, modifier, supprimer un player avec un formulaire, sans recharger la page. Pour chaque player, un bouton du suivi permet de suivre ou non l'état d'un player sur une page de supervision des players.",
         "images": [
           "images/portfolio/stage/playersmanager.png",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/stage/authentification.png",
+          "images/portfolio/stage/mdp.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-symfony-original",
+            "name": "Symfony"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
           }
         ]
       },
       {
-        "title": "SÉCURITE INFORMATIQUE",
+        "title": "EVOLUTION DE SYMFONY",
         "startDate": "Veille technologique",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "J'ai choisi de réaliser ma veille technologique sur les évolutions de symfony. Afin d'y parvenir, je me suis abonné aux flux RSS et aux newsletter des sites mettant en avant les mises à jour et évolutions de symfony. Juste au dessus se trouve le lien vers mon Pearltrees afin de pouvoir consulter les détails de ma veille.",
         "images": [
-          "images/portfolio/veille/Sécurité-informatique.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/veille/symfony.png"
         ],
-        "url": "",
+        "url": "https://www.pearltrees.com/linomoreau",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
         ]
       }
     ],
