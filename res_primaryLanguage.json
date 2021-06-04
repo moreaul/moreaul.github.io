@@ -1,218 +1,218 @@
 {
-    "basic_info": {
-      "description_header": "Bonjour,",
-      "description": "Je suis Lino Moreau, étudiant en deuxième année de BTS SIO option SLAM.",
-      "section_name": {
-        "about": "À propos de moi",
-        "projects": "Projets",
-        "skills": "Compétences",
-        "experience": "Expérience"
-      }
+  "basic_info": {
+    "description_header": "Bonjour,",
+    "description": "Je suis Lino Moreau, étudiant en deuxième année de BTS SIO option SLAM.",
+    "section_name": {
+      "about": "À propos de moi",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience"
+    }
+  },
+  "projects": [
+    {
+      "title": "MAISON DES LIGUES",
+      "startDate": "PPE1",
+      "description": "Réalisation d'un site web responsive pour une association fictive qui propose des activités sportives ainsi que des locations de salles de sport. Le site permet de présenter l'association et ses activités, réserver des salles et prendre contact.",
+      "images": [
+        "images/portfolio/PPE/PPE1/ppe1.JPG"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "MAISON DES LIGUES",
-        "startDate": "PPE1",
-        "description": "Réalisation d'un site web responsive pour une association fictive qui propose des activités sportives ainsi que des locations de salles de sport. Le site permet de présenter l'association et ses activités, réserver des salles et prendre contact.",
-        "images": [
-          "images/portfolio/PPE/PPE1/ppe1.JPG"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          }
-        ]
-      },
-      {
-        "title": "TOYSHOPPERS",
-        "startDate": "PPE2",
-        "description": "Réalisation d'un site marchand fictif gérant un catalogue de produits, les comptes des clients, le panier. Non abouti à cause du covid.",
-        "images": [
-          "images/portfolio/PPE/PPE2/toyshopppers.PNG"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySql"
-          }
-        ]
-      },
-      {
-        "title": "LBC",
-        "startDate": "PPE3",
-        "description": "Réalisation d'un site web pour une entreprise pharmaceutique fictive. Il lui permet de gérer ses visiteurs ainsi que les praticiens qu'ils visitent. Le site est développé en PHP avec une architecture MVC, il est connecté à une base de données SQL.",
-        "images": [
-          "images/portfolio/PPE/PPE3/LBC.png",
-          "images/portfolio/PPE/PPE3/AC.JPG"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySql"
-          }
-        ]
-      },
-      {
-        "title": "TOBAT",
-        "startDate": "PPE4",
-        "description": "Développement d'un site web pour un salon nautique fictif permettant de gérer les stands de l'exposition. Réalisation d'une API REST avec le framework symfony. Le site web en symfony interagit avec l'API REST. Une application android était prévue mais a été annulée à cause du covid.",
-        "images": [
-          "images/portfolio/PPE/PPE4/tobat.png",
-          "images/portfolio/PPE/PPE4/ajout.png",
-          "images/portfolio/PPE/PPE4/authentification.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySql"
-          },
-          {
-            "class": "devicon-symfony-original",
-            "name": "Symfony"
-          }
-        ]
-      },
-      {
-        "title": "PLAYERS MANAGER",
-        "startDate": "Stage",
-        "description": "Mise en place d’une plateforme web symfony de gestion des différents types de players d’uni vision. Accès à la plateforme par authentification. La page principale liste tous les players en service d'uni-vision, et leurs caractéristiques. Possibilité d'ajouter, modifier, supprimer un player avec un formulaire, sans recharger la page. Pour chaque player, un bouton du suivi permet de suivre ou non l'état d'un player sur une page de supervision des players.",
-        "images": [
-          "images/portfolio/stage/playersmanager.png",
-          "images/portfolio/stage/authentification.png",
-          "images/portfolio/stage/mdp.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-symfony-original",
-            "name": "Symfony"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          },
-          {
-            "class": "devicon-jquery-plain",
-            "name": "Jquery"
-          }
-        ]
-      },
-      {
-        "title": "EVOLUTION DE SYMFONY",
-        "startDate": "Veille technologique",
-        "description": "J'ai choisi de réaliser ma veille technologique sur les évolutions de symfony. Afin d'y parvenir, je me suis abonné aux flux RSS et aux newsletter des sites mettant en avant les mises à jour et évolutions de symfony. Juste au dessus se trouve le lien vers mon Pearltrees afin de pouvoir consulter les détails de ma veille.",
-        "images": [
-          "images/portfolio/veille/symfony.png"
-        ],
-        "url": "https://www.pearltrees.com/linomoreau",
-        "technologies": [
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Saint Gabriel",
-        "title": "BAC STI2D",
-        "years": "2019",
-        "mainTech": [
-        ],
-        "technologies": [
-        ]
-      },
-      {
-        "company": "Esupec",
-        "title": "BTS SIO",
-        "years": "2019-2021",
-        "mainTech": [
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "Symfony",
-          "PHP",
-          "JavaScript",
-          "Java",
-          "Android",
-          "Python",
-          "MySql"
-        ]
-      },
-      {
-        "company": "Uni-Vision",
-        "title": "Stage développeur informatique",
-        "years": "01/2021 - 02/2021",
-        "mainTech": [
-        ],
-        "technologies": [
-          "Symfony",
-          "PHP",
-          "HTML",
-          "CSS",
-          "Javascript",
-          "MySql",
-          "Ajax"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "TOYSHOPPERS",
+      "startDate": "PPE2",
+      "description": "Réalisation d'un site marchand fictif gérant un catalogue de produits, les comptes des clients, le panier. Non abouti à cause du covid.",
+      "images": [
+        "images/portfolio/PPE/PPE2/toyshopppers.PNG"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySql"
+        }
+      ]
+    },
+    {
+      "title": "LBC",
+      "startDate": "PPE3",
+      "description": "Réalisation d'un site web pour une entreprise pharmaceutique fictive. Il lui permet de gérer ses visiteurs ainsi que leurs activités complémentaires. Le site est développé en PHP avec une architecture MVC, il est connecté à une base de données SQL.",
+      "images": [
+        "images/portfolio/PPE/PPE3/LBC.png",
+        "images/portfolio/PPE/PPE3/AC.JPG"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySql"
+        }
+      ]
+    },
+    {
+      "title": "TOBAT",
+      "startDate": "PPE4",
+      "description": "Développement d'un site web pour un salon nautique fictif permettant de gérer les stands de l'exposition. Réalisation d'une API REST avec le framework symfony. Le site web en symfony interagit avec l'API REST. Une application android était prévue mais a été annulée à cause du covid.",
+      "images": [
+        "images/portfolio/PPE/PPE4/tobat.png",
+        "images/portfolio/PPE/PPE4/ajout.png",
+        "images/portfolio/PPE/PPE4/authentification.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySql"
+        },
+        {
+          "class": "devicon-symfony-original",
+          "name": "Symfony"
+        }
+      ]
+    },
+    {
+      "title": "PLAYERS MANAGER",
+      "startDate": "Stage",
+      "description": "Mise en place d’une plateforme web symfony de gestion des différents types de players d’uni vision. Accès à la plateforme par authentification. La page principale liste tous les players en service d'uni-vision, et leurs caractéristiques. Possibilité d'ajouter, modifier, supprimer un player avec un formulaire, sans recharger la page. Pour chaque player, un bouton du suivi permet de suivre ou non l'état d'un player sur une page de supervision des players.",
+      "images": [
+        "images/portfolio/stage/playersmanager.png",
+        "images/portfolio/stage/authentification.png",
+        "images/portfolio/stage/mdp.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-symfony-original",
+          "name": "Symfony"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        }
+      ]
+    },
+    {
+      "title": "EVOLUTION DE SYMFONY",
+      "startDate": "Veille technologique",
+      "description": "J'ai choisi de réaliser ma veille technologique sur les évolutions de symfony. Afin d'y parvenir, je me suis abonné aux flux RSS et aux newsletter des sites mettant en avant les mises à jour et évolutions de symfony. Juste au dessus se trouve le lien vers mon Pearltrees afin de pouvoir consulter les détails de ma veille.",
+      "images": [
+        "images/portfolio/veille/symfony.png"
+      ],
+      "url": "https://www.pearltrees.com/linomoreau",
+      "technologies": [
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Saint Gabriel",
+      "title": "BAC STI2D",
+      "years": "2019",
+      "mainTech": [
+      ],
+      "technologies": [
+      ]
+    },
+    {
+      "company": "Esupec",
+      "title": "BTS SIO",
+      "years": "2019-2021",
+      "mainTech": [
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Symfony",
+        "PHP",
+        "JavaScript",
+        "Java",
+        "Android",
+        "Python",
+        "MySql"
+      ]
+    },
+    {
+      "company": "Uni-Vision",
+      "title": "Stage développeur informatique",
+      "years": "01/2021 - 02/2021",
+      "mainTech": [
+      ],
+      "technologies": [
+        "Symfony",
+        "PHP",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MySql",
+        "Ajax"
+      ]
+    }
+  ]
+}
