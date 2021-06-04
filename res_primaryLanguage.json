@@ -15,8 +15,7 @@
         "startDate": "PPE1",
         "description": "Réalisation d'un site web responsive pour une association fictive qui propose des activités sportives ainsi que des locations de salles de sport. Le site permet de présenter l'association et ses activités, réserver des salles et prendre contact.",
         "images": [
-          "images/portfolio/PPE/PPE1/ppe1.JPG",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/PPE/PPE1/ppe1.JPG"
         ],
         "url": "",
         "technologies": [
@@ -35,8 +34,7 @@
         "startDate": "PPE2",
         "description": "Réalisation d'un site marchand fictif gérant un catalogue de produits, les comptes des clients, le panier. Non abouti à cause du covid.",
         "images": [
-          "images/portfolio/PPE/PPE2/toyshopppers.PNG",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/PPE/PPE2/toyshopppers.PNG"
         ],
         "url": "",
         "technologies": [
