@@ -19,33 +19,23 @@
           "class": "fab fa-stack-overflow"
         }
       ],
-      "image": "avatar.png"
+      "image": "photo.png"
     },
     "skills": {
       "icons": [
-        {
-          "name": "HTML",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
         {
           "name": "Symfony",
           "class": "devicon-symfony-original",
           "level": "80"
         },
         {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
           "level": "70"
         },
         {
@@ -67,6 +57,56 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "70"
+        },
+        {
+          "name": "Dotnet",
+          "class": "devicon-dot-net-plain",
+          "level": "70"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "70"
+        },
+        {
+          "name": "Nginx",
+          "class": "devicon-nginx-original",
+          "level": "70"
+        },
+        {
+          "name": "Unity",
+          "class": "devicon-unity-plain",
+          "level": "70"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Bonjour,",
-    "description": "Je suis Lino Moreau, étudiant en deuxième année de BTS SIO option SLAM.",
+    "description": "Je suis Lino Moreau, étudiant en école d'ingénieur avec une spécialisation en Software Engineering. Actuellement en alternance, je développe mes compétences en développement logiciel et en gestion de projets. Mon parcours en alternance me permet d'acquérir une expérience pratique tout en approfondissant mes connaissances théoriques.",
     "section_name": {
       "about": "À propos de moi",
       "projects": "Projets",
@@ -174,7 +174,7 @@
     {
       "company": "Saint Gabriel",
       "title": "BAC STI2D",
-      "years": "2019",
+      "years": "2017 - 2019",
       "mainTech": [
       ],
       "technologies": [
@@ -199,20 +199,20 @@
       ]
     },
     {
-      "company": "Uni-Vision",
-      "title": "Stage développeur informatique",
-      "years": "01/2021 - 02/2021",
+      "company": "Esupec / Uni-Vision",
+      "title": "Licence informatique en alternance",
+      "years": "2021 - 2022",
       "mainTech": [
       ],
-      "technologies": [
-        "Symfony",
-        "PHP",
-        "HTML",
-        "CSS",
-        "Javascript",
-        "MySql",
-        "Ajax"
-      ]
+      "technologies": []
+    },
+    {
+      "company": "ESIEA / Uni-Vision",
+      "title": "Diplôme d'ingénieur en alternance",
+      "years": "2022 - 2025",
+      "mainTech": [
+      ],
+      "technologies": []
     }
   ]
 }
