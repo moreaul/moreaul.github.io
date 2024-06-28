@@ -1,6 +1,5 @@
 body[data-theme="dark"] {  
 
-   @import '../src/scss/dark-slider.scss';
 
    .slider-tab {
       background-color: #8C8C8C;
@@ -33,8 +32,8 @@ body[data-theme="dark"] {
    }
 
    header, .header {
-      /*background-color: #494949;*/
       background: url("coffee-apple.jpg") no-repeat center center fixed;
+      background-size: cover;
       h1 {
          color: white;
       }
