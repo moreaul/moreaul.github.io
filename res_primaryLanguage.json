@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Bonjour,",
-    "description": "Je suis Lino Moreau, étudiant en deuxième année de BTS SIO option SLAM.",
+    "description": "Je suis Lino Moreau, étudiant en école d'ingénieur avec une spécialisation en Software Engineering. Actuellement en alternance, je développe mes compétences en développement logiciel et en gestion de projets. Mon parcours en alternance me permet d'acquérir une expérience pratique tout en approfondissant mes connaissances théoriques.",
     "section_name": {
       "about": "À propos de moi",
       "projects": "Projets",
@@ -10,52 +10,6 @@
     }
   },
   "projects": [
-    {
-      "title": "MAISON DES LIGUES",
-      "startDate": "PPE1",
-      "description": "Réalisation d'un site web pour une association fictive qui propose des activités sportives ainsi que des locations de salles de sport. Le site permet de présenter l'association et ses activités.",
-      "images": [
-        "images/portfolio/PPE/PPE1/ppe1.JPG"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
-        }
-      ]
-    },
-    {
-      "title": "TOYSHOPPERS",
-      "startDate": "PPE2",
-      "description": "Réalisation d'un site marchand fictif gérant un catalogue de produits, les comptes des clients, le panier. Non abouti à cause du covid.",
-      "images": [
-        "images/portfolio/PPE/PPE2/toyshopppers.PNG"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
-        },
-        {
-          "class": "devicon-php-plain",
-          "name": "PHP"
-        },
-        {
-          "class": "devicon-mysql-plain",
-          "name": "MySql"
-        }
-      ]
-    },
     {
       "title": "LBC",
       "startDate": "PPE3",
@@ -156,17 +110,6 @@
           "class": "devicon-jquery-plain",
           "name": "Jquery"
         }
-      ]
-    },
-    {
-      "title": "EVOLUTION DE SYMFONY",
-      "startDate": "Veille technologique",
-      "description": "J'ai choisi de réaliser ma veille technologique sur les évolutions de symfony. Afin d'y parvenir, je me suis abonné aux flux RSS et aux newsletter des sites mettant en avant les mises à jour et évolutions de symfony. Juste au dessus se trouve le lien vers mon Pearltrees afin de pouvoir consulter les détails de ma veille.",
-      "images": [
-        "images/portfolio/veille/symfony.png"
-      ],
-      "url": "https://www.pearltrees.com/linomoreau",
-      "technologies": [
       ]
     }
   ],
