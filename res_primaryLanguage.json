@@ -117,7 +117,7 @@
     {
       "company": "Saint Gabriel",
       "title": "BAC STI2D",
-      "years": "2019",
+      "years": "2017 - 2019",
       "mainTech": [
       ],
       "technologies": [
@@ -142,20 +142,20 @@
       ]
     },
     {
-      "company": "Uni-Vision",
-      "title": "Stage développeur informatique",
-      "years": "01/2021 - 02/2021",
+      "company": "Esupec / Uni-Vision",
+      "title": "Licence informatique en alternance",
+      "years": "2021 - 2022",
       "mainTech": [
       ],
-      "technologies": [
-        "Symfony",
-        "PHP",
-        "HTML",
-        "CSS",
-        "Javascript",
-        "MySql",
-        "Ajax"
-      ]
+      "technologies": []
+    },
+    {
+      "company": "ESIEA / Uni-Vision",
+      "title": "Diplôme d'ingénieur en alternance",
+      "years": "2022 - 2025",
+      "mainTech": [
+      ],
+      "technologies": []
     }
   ]
 }
