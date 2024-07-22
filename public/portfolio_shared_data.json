@@ -102,11 +102,6 @@
           "name": "Nginx",
           "class": "devicon-nginx-original",
           "level": "70"
-        },
-        {
-          "name": "Unity",
-          "class": "devicon-unity-plain",
-          "level": "70"
         }
       ]
     }

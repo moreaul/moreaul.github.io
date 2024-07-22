@@ -98,7 +98,7 @@ class App extends Component {
             }
             style={{ display: "inline" }}
           >
-            <a class="iconify language-icon" href="images/CV.pdf" target="_blank">CV</a>
+            <a class="iconify language-icon" href="/" target="_blank"></a>
             <span
               className="iconify language-icon mr-5"
               data-inline="false"
@@ -114,7 +114,7 @@ class App extends Component {
             }
             style={{ display: "inline" }}
           >
-            <a class="iconify language-icon" href="images/BTS_SIO_E6_tableau_synthèseSLAM.pdf" target="_blank">Compétences BTS</a>
+            <a class="iconify language-icon" href="/" target="_blank"></a>
             <span
               className="iconify language-icon"
               data-inline="false"
