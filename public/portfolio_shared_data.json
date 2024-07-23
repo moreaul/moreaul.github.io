@@ -9,14 +9,14 @@
           "class": "fab fa-github"
         },
         {
+          "name": "gitlab",
+          "url": "https://gitlab.esiea.fr/lmoreau",
+          "class": "fab fa-gitlab"
+        },
+        {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/lino-moreau-9a4840201/",
           "class": "fab fa-linkedin"
-        },
-        {
-          "name": "stack-overflow",
-          "url": "https://stackoverflow.com/users/15076945/lino",
-          "class": "fab fa-stack-overflow"
         }
       ],
       "image": "photo.png"

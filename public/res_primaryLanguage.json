@@ -15,11 +15,10 @@
       "startDate": "Projet Encadré",
       "description": "Projet Personnel Encadré de BTS. Développement d'un site web pour un salon nautique fictif permettant de gérer les stands de l'exposition. Réalisation d'une API REST avec le framework symfony. Le site web en symfony interagit avec l'API REST. Une application android était prévue mais a été annulée à cause du covid.",
       "images": [
-        "images/portfolio/PPE/PPE4/tobat.png",
-        "images/portfolio/PPE/PPE4/ajout.png",
-        "images/portfolio/PPE/PPE4/authentification.png"
+        "images/projets/bts/ppe/1.png",
+        "images/projets/bts/ppe/2.png",
+        "images/projets/bts/ppe/3.png"
       ],
-      "url": "",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -48,11 +47,10 @@
       "startDate": "Stage",
       "description": "Mise en place d’une plateforme web de gestion des différents types de players d’Uni-Vision. Accès à la plateforme par authentification. La page principale liste tous les players en service d'Uni-Vision et leurs caractéristiques. Possibilité d'ajouter, modifier, supprimer un player avec un formulaire, sans recharger la page. Pour chaque player, un bouton du suivi permet de suivre ou non l'état d'un player sur une page de supervision des players.",
       "images": [
-        "images/portfolio/stage/playersmanager.png",
-        "images/portfolio/stage/authentification.png",
-        "images/portfolio/stage/mdp.png"
+        "images/projets/bts/stage/1.png",
+        "images/projets/bts/stage/2.png",
+        "images/projets/bts/stage/3.png"
       ],
-      "url": "",
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -89,9 +87,11 @@
       "startDate": "GameJam",
       "description": "Réalisation d'un jeu en équipe de 4 personnes avec un temps limite de 1 semaine. Le jeu est un jeu de type labyrinthe en 3D où le but est de trouver la sortie tout en évitant les monstres. Le jeu a été réalisé avec le moteur de jeu Unity.",
       "images": [
-        "images/portfolio/inge/gamejam/jaquette3.png"
+        "images/projets/esiea/gamejam/1.png",
+        "images/projets/esiea/gamejam/2.png",
+        "images/projets/esiea/gamejam/3.png",
+        "images/projets/esiea/gamejam/4.png"
       ],
-      "url": "https://www.pearltrees.com/linomoreau",
       "technologies": [
       ]
     },
@@ -100,22 +100,23 @@
       "startDate": "Projet POO",
       "description": "Dans le cadre du cours de Programmation Orientée Objet, nous avons eu pour projet de réaliser un jeu vidéo sur le thème du jeu Hearthstone. Nous avons utilisé le moteur de jeu Unity pour la partie graphique et le langage C# pour la partie programmation. Le jeu est un jeu de carte en tour par tour où le but est de réduire les points de vie de l'adversaire à 0.",
       "images": [
-        "images/portfolio/inge/projet1/2.png",
-        "images/portfolio/inge/projet1/1.png",
-        "images/portfolio/inge/projet1/3.gif"
+        "images/projets/esiea/projet1/1.png",
+        "images/projets/esiea/projet1/2.png",
+        "images/projets/esiea/projet1/3.gif"
       ],
-      "url": "https://www.pearltrees.com/linomoreau",
       "technologies": [
       ]
     },
     {
       "title": "Carte web interactive",
-      "startDate": "Conception d'application",
-      "description": "Dans le cadre du cours de conception d'application, nous avons eu pour projet de réaliser une carte web interactive. La carte permet de mesurer la distance entre un point et les villes les plus proches avec la possibilité d'appliquer des filtres. Nous avons utilisé le framework React pour la partie front-end et le framework ASP.NET pour la partie back-end.",
+      "startDate": "Architecture d'application",
+      "description": "Dans le cadre du cours d'architecure d'application, nous avons eu pour projet de réaliser une carte web interactive. La carte permet de mesurer la distance entre un point et les villes les plus proches avec la possibilité d'appliquer des filtres. Nous avons utilisé le framework React pour la partie front-end et le framework ASP.NET pour la partie back-end.",
       "images": [
-        "images/portfolio/inge/projet2/1.jpeg"
+        "images/projets/esiea/projet2/1.jpeg",
+        "images/projets/esiea/projet2/2.jpeg",
+        "images/projets/esiea/projet2/3.jpeg",
+        "images/projets/esiea/projet2/4.jpeg"
       ],
-      "url": "https://www.pearltrees.com/linomoreau",
       "technologies": [
       ]
     },
@@ -124,10 +125,9 @@
       "startDate": "Programmation GPU",
       "description": "Dans le cadre du cours de programmation GPU, nous avons eu pour projet de réaliser une simulation de fumée en temps réel. Nous avons utilisé le moteur de jeu Unity pour la partie graphique et le langage C# pour la partie programmation. La simulation est basée sur un système de particules qui se déplacent de façon aléatoires. La fumée est générée à partir de ces particules. Les calculs de rendu sont effectués sur la carte graphique.",
       "images": [
-        "images/portfolio/inge/projet3/1.gif",
-        "images/portfolio/inge/projet3/3.png"
+        "images/projets/esiea/projet3/1.gif",
+        "images/projets/esiea/projet3/2.png"
       ],
-      "url": "https://www.pearltrees.com/linomoreau",
       "technologies": [
       ]
     }

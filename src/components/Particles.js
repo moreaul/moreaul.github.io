@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import Particles from 'react-tsparticles';
 import { makeStyles } from "@material-ui/core/styles";
 
@@ -52,6 +52,7 @@ const ParticlesComponent = () => {
                 },
               },
             },
+            // Add or modify additional options here
           }}
       />
   );

@@ -7,7 +7,7 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-// import ParticlesComponent from "./components/Particles";
+import ParticlesComponent from "./components/Particles";
 //import Particles from 'react-particles-js';
 
 class App extends Component {
@@ -84,9 +84,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        {/*<React.Fragment>*/}
-        {/*  <ParticlesComponent />*/}
-        {/*</React.Fragment>*/}
+        <React.Fragment>
+          <ParticlesComponent />
+        </React.Fragment>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="header col-md-12 mx-auto text-center language">
           <div
