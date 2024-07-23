@@ -85,7 +85,7 @@ class App extends Component {
     return (
       <div>
         <React.Fragment>
-          <ParticlesComponent />
+        {/*  <ParticlesComponent />*/}
         </React.Fragment>
         <Header sharedData={this.state.sharedData.basic_info} />
         <div className="header col-md-12 mx-auto text-center language">
