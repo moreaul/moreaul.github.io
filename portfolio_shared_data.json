@@ -29,9 +29,24 @@
           "level": "80"
         },
         {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "70"
+        },
+        {
           "name": "Symfony",
           "class": "devicon-symfony-original",
           "level": "80"
+        },
+        {
+          "name": "ElasticSearch",
+          "class": "devicon-elasticsearch-plain",
+          "level": "70"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
         },
         {
           "name": "JavaScript",
@@ -42,11 +57,6 @@
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "70"
-        },
-        {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "75"
         },
         {
           "name": "Android",
@@ -79,18 +89,8 @@
           "level": "70"
         },
         {
-          "name": "React",
-          "class": "devicon-react-original",
-          "level": "70"
-        },
-        {
           "name": "Dotnet",
           "class": "devicon-dot-net-plain",
-          "level": "70"
-        },
-        {
-          "name": "Node",
-          "class": "devicon-nodejs-plain",
           "level": "70"
         },
         {
@@ -101,11 +101,6 @@
         {
           "name": "PostgreSQL",
           "class": "devicon-postgresql-plain",
-          "level": "70"
-        },
-        {
-          "name": "Nginx",
-          "class": "devicon-nginx-original",
           "level": "70"
         }
       ]
