@@ -24,6 +24,11 @@
     "skills": {
       "icons": [
         {
+          "name": "NextJS",
+          "class": "devicon-nextjs-plain",
+          "level": "80"
+        },
+        {
           "name": "Symfony",
           "class": "devicon-symfony-original",
           "level": "80"
