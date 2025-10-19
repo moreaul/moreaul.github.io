@@ -99,8 +99,13 @@
           "level": "70"
         },
         {
-          "name": "Nginx",
-          "class": "devicon-nginx-original",
+          "name": "Electron",
+          "class": "devicon-electron-original",
+          "level": "70"
+        },
+        {
+          "name": "Unity",
+          "class": "devicon-unity-plain",
           "level": "70"
         }
       ]
