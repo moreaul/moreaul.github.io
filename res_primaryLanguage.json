@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Bonjour,",
-    "description": "Je suis Lino Moreau, étudiant en 3ème année de cycle ingénieur à l'ESIEA avec une spécialisation en Software Engineering. Vous trouverez sur ce site les projets réalisés durant mes études ainsi que mes compétences acquises.",
+    "description": "Je suis Lino Moreau, ingénieur du numérique passionné les technologies et le développement. Mon parcours en alternance m’a permis de concevoir des applications performantes et d’acquérir une solide expérience en développement full-stack. Vous trouverez ci-dessous une sélection de mes projets et les compétences techniques que j’ai développées au fil de mon parcours.",
     "section_name": {
       "about": "À propos de moi",
       "projects": "Projets",
@@ -159,7 +159,7 @@
       "technologies": []
     },
     {
-      "company": "ESIEA / Uni-Vision",
+      "company": "ESIEA / Uni-Vision (3A & 4A), FDI (5A)",
       "title": "Cycle ingénieur ESIEA",
       "years": "2022 - 2025",
       "mainTech": [
